@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# The pages under these two paths moved to mailward.github.io and waveward.github.io on
+# 2026-10-13; each old address now redirects. The sitemaps list them so crawlers revisit.
+Sitemap: https://leivorn.github.io/email-archive-formats/sitemap.xml
+Sitemap: https://leivorn.github.io/audacity-project-formats/sitemap.xml
